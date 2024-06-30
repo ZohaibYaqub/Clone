@@ -40,10 +40,12 @@ export function sidebar() {
 
     <div class="sidebar-footer">
       <p class="copyright">
-        Copyright 2023
-        <a href="https://naufalfiqri.netlify.app" target="_blank">Naufal Fiqri</a>
+        CineWorld 2024 
+        Made Movie Website By 
+        'Komal Sajjad'
+        
       </p>
-      <img src="./assets/images/tmdb-logo.png" width="130" height="17" alt="the movie database logo" />
+     
     </div>
   `;
 
